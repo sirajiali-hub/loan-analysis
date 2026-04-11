@@ -90,8 +90,8 @@ The project prioritizes recall (catching defaults) over accuracy, since misclass
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/credit-risk-loan-default.git
-cd credit-risk-loan-default
+git clone https://github.com/sirajiali-hub/loan-analysis.git
+cd loan-analysis
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
